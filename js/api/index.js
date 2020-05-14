@@ -1,3 +1,6 @@
+/**
+ * These imports (cf. const/require) are made possible via the `esm` module, invoking `esm-index.js` upon a `yarn start` terminal command
+ */
 import express from "express";
 import fs from "fs";
 
